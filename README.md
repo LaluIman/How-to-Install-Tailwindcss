@@ -18,8 +18,8 @@ first go to your Vscode terminal
 
 7. **npx tailwindcss -i ./src/input.css -o ./src/output.css --watch**
 
-8. inside of the *tailwind.config.js* file that have already downloaded add the html file inside of the content
+8. inside of the *tailwind.config.js* file that have already downloaded add the **html** file inside of the content
 
 
-if you want to see the full tutorial how to check my video: https://youtu.be/WxTSkEPA68c
+if you want to see the full tutorial how to check my video: **https://youtu.be/WxTSkEPA68c**
 
