@@ -6,7 +6,7 @@ first go to your Vscode terminal
 
 2. **npm install -D tailwindcss**
 
-3. **npm i -D tailwindcss postcss autoprefixer**
+3. **npm i -D tailwindcss postcss autoprefixer** (if using postcss method)
 
 4. **npx tailwindcss init**
 
